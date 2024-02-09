@@ -1,2 +1,3 @@
-# conversor_dbf_sql
+# conversor de dbf para sql
 Conversor de dbf para Sql
+Compativel com xHarbour + sqlrdd
