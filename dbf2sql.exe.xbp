@@ -1,0 +1,65 @@
+CINI = 
+C_OUTPUTFOLDER = 
+DEFFILE = 
+INCLUDEFOLDERS = d:\Devel\xHarbour\contrib\sqlrdd\include;d:\Devel\xHarbour\contrib\hwgui\include;
+LAUTORUN =
+LDEBUG = .F.
+LGUI = .T.
+LIBFOLDERS = d:\Devel\xHarbour\contrib\sqlrdd\lib;
+LMT = .F.
+LNOAUTOFWH = .F.
+LPRG_CLASSICDEBUG = .F.
+LPRG_DEBUG = .F.
+LUSEDLL = .F.
+MAPFILE = 
+MYC_FLAGS = 
+MYDEFINES =
+MYLINK_FLAGS = 
+MYPRG_FLAGS = 
+MYRC_FLAGS = 
+MYSLY_FLAGS = 
+OUTPUTFOLDER = obj
+PRG_OUTPUTFOLDER = 
+RC_OUTPUTFOLDER = 
+RUNARGUMENTS = 
+SLY_OUTPUTFOLDER = 
+STARTIN = 
+TARGETFOLDER = 
+
+[DBF2SQL.prg]
+MYC_FLAGS = 
+MYDEFINES = 
+MYPRG_FLAGS = 
+
+[*.PRG]
+MYC_FLAGS =
+MYDEFINES =
+MYPRG_FLAGS =
+
+[dbf2sql.rc]
+MYDEFINES = 
+MYRC_FLAGS = 
+
+[D:\Devel\xHarbour\contrib\hwgui\lib\hwgui.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\SQL.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\fbclient_bc.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\libmysql.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\libpq.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\oci.lib]
+
+[D:\Devel\xHarbour\contrib\sqlrdd\lib\BC5\odbccp32.lib]
+
+[D:\devel\xharbour\lib\hbmzip.lib]
+
+[D:\devel\xharbour\lib\hbzip.lib]
+
+[D:\Devel\xHarbour\contrib\sygecom.lib]
+
+[D:\Devel\xHarbour\lib\tip.lib]
+
+[D:\Devel\xHarbour\lib\codepage.lib]
